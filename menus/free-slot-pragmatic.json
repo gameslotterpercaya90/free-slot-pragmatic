@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle free-slot-pragmatic",
+        "command": "free-slot-pragmatic:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "free-slot-pragmatic",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "free-slot-pragmatic:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
