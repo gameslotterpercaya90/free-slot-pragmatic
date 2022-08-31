@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Info Gampang Menang Info Gacor Free Slot Pragmatic Paling Gacor](https://atom.io/packages/free-slot-pragmatic)
-## :star2: klik untuk [Mulai Deposit Sekarang](https://agentotoplay.net/promo/) :dart: <<< 
-## :ok_hand: klik untuk [Mulai Main Dan Mendaftar](https://agentotoplay.net/promo/) :cake: <<< 
-## :fire: klik untuk [Daftar Sekarang](https://agentotoplay.net/promo/) :star2: <<< 
+## :star2: klik untuk [Mulai Deposit Sekarang](https://golinkurl.github.io/promo/) :dart: <<< 
+## :ok_hand: klik untuk [Mulai Main Dan Mendaftar](https://golinkurl.github.io/promo/) :cake: <<< 
+## :fire: klik untuk [Daftar Sekarang](https://golinkurl.github.io/promo/) :star2: <<< 
 
 ## Informasi Situs /Server Kami : 
 
